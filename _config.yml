@@ -1,0 +1,28 @@
+name: Inconvenient Design
+favicon: null
+layout_spectrum: 0.6054490474052727
+typography_spectrum: 0.2561159443575889
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7129629196133465
+  lightness: 0.5888958198484033
+  saturation: 0.7466565086506307
+  rhythmicContrast: 0.13649550243280828
+purpose: []
